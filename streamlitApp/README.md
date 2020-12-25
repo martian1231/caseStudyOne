@@ -6,7 +6,7 @@
 
 We have used Heroku to deploy our streamlit server. The main reason for using Heroku and not any other services is that, Heroku is really simple to use and you don't have to worry about managing infrastructure, services and so on.
 
-To know more about deploying a python app on Heroku server have a look at [this]() post by me.
+To know more about deploying a python app on Heroku server have a look at [this](https://martian1231-py.medium.com/ashrae-great-energy-predictor-iii-a-machine-learning-self-case-study-5c9e9d0ea11d) post by me.
 
 Click [here](https://ashrae-great-energy-predictor.herokuapp.com/) to see this app running on Heroku.
 
