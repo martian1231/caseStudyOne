@@ -1,6 +1,6 @@
 # Self Case Study One
 
-This GitHub repository contains my work on the self case study "_ASHRAE - Great Energy Predictor III_" (A Kaggle competition) assigned by the "team" at [appliedaicourse](appliedaicourse.com) (to know more about them, please check out the provided link). Have a look at [this](https://martian1231-py.medium.com/ashrae-great-energy-predictor-iii-a-machine-learning-self-case-study-5c9e9d0ea11d) medium blog for full exposure of this case study.
+This GitHub repository contains my work on the self case study "_ASHRAE - Great Energy Predictor III_" (A Kaggle competition) assigned by the "team" at [appliedaicourse](https://www.appliedaicourse.com/) (to know more about them, please check out the provided link). Have a look at [this](https://martian1231-py.medium.com/ashrae-great-energy-predictor-iii-a-machine-learning-self-case-study-5c9e9d0ea11d) medium blog for full exposure of this case study.
 
 # File Metadata
 
